@@ -1,5 +1,12 @@
-<?php 
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "Hello World PHP SUCKS!
+<h1>My first PHP page</h1>
 
+<?php
+echo "Hello World!";
 ?>
+
+</body>
+</html> 
